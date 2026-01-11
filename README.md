@@ -1,6 +1,6 @@
 # 📝 To Do List App
 
-This is my **first project built using React** 🎉  
+This is my **first project built using React** 
 It is a simple and clean **To-Do List application** created to practice React fundamentals and component-based UI development.
 
 ---
@@ -26,7 +26,8 @@ It is a simple and clean **To-Do List application** created to practice React fu
 
 ## 📸 Preview
 
-(./public/ScreenShot.png)
+![Preview](./public/ScreenShot.png)
+
 
 ---
 
