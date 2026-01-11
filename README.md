@@ -1,16 +1,58 @@
-# React + Vite
+# 📝 To Do List App
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This is my **first project built using React** 🎉  
+It is a simple and clean **To-Do List application** created to practice React fundamentals and component-based UI development.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🚀 Features
 
-## React Compiler
+- Add new tasks
+- Mark tasks as completed
+- Automatically show completed vs total tasks
+- Clear all completed tasks
+- Simple, clean, and responsive UI
+- Custom styled checkboxes and cards
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+---
 
-## Expanding the ESLint configuration
+## 🛠️ Built With
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- **React** (with functional components & hooks)
+- **Vite** (for fast development setup)
+- **CSS** (custom styling, hover effects, shadows)
+
+---
+
+## 📸 Preview
+
+(./public/ScreenShot.png)
+
+---
+
+## 📚 What I Learned
+
+- Using `useState` for state management
+- Passing data and functions via props
+- Component reusability
+- Controlled inputs in React
+- Conditional rendering and styling
+- Basic Git & GitHub workflow
+
+---
+
+## ▶️ Getting Started
+
+### Clone the repository
+
+```bash
+git clone https://github.com/KC1104/To-Do-List
+```
+Install dependencies
+```bash
+npm install
+```
+Run the app
+```bash
+npm run dev
+```
